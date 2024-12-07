@@ -1,0 +1,55 @@
+
+.search__bar {
+    padding: 0.5rem 1rem;
+    border: 2px solid #393732; /* Set the border color for the whole box */
+    border-radius: 50px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 78px 550px 10px;
+    width: max-content;
+    background: #e0ddd9c1;
+    margin-top: 50px;
+}
+
+.form__group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.form__group span {
+    font-size: 1.7rem;
+    color: #986e06;
+    display: flex;
+    align-items: center;
+}
+
+.form__group h6 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #393732; /* Optional: Add color for the heading */
+}
+
+.form__group input {
+    border: none;
+    font-size: 0.8rem;
+    color: #000;
+    font-weight: 500;
+    padding: 0.1rem 0;
+}
+
+.form__group input:focus {
+    outline: none;
+    margin-bottom: 0;
+}
+.form__group-fast{
+    border-right: 2px;
+
+}
+.search__icon i{
+    font-size: 1.6rem;
+    padding: 0.3rem;
+    background-color: #393732;
+    color:#fff;
+    border-radius: 10px 5px 10px 5px;
+    cursor:auto;
+}

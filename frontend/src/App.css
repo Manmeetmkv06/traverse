@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Island+Moments&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+
+:root {
+  --primary-color: #DADDC5;
+  --secondary-color:#C1AA7F;
+  --heading-color: #393732;
+  --text-color: #6e7074;
+  --font-name: "Montserrat", sans-serif;
+  --subtitle-font-name: "Island Moments", cursive;
+}
+
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-name);
+}
+
+section {
+  padding: 40px 0px 0px 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-color);
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+ul {
+  list-style: none;
+}
+
+.primary__btn {
+  background:#C1AA7F !important;
+  border: none !important;
+  border-radius: 50px !important;
+  padding: 0.4rem 1.5rem !important;
+  cursor: pointer;
+  transition: all 0.5s  border-radius 0.5s, ease 0s;
+}
+
+.primary__btn a {
+  font-size: 1.1rem;
+  font-weight:650;
+  text-decoration: none;
+  color: #fff;
+}
+.primary__btn a:hover {
+
+    color:#c0c3c7;
+    border-top-left-radius: 35px;
+}
+.primary__btn {
+  background: #393732 !important; /* Initial background color */
+  border: 2px solid #C1AA7F !important; /* Border color same as the background */
+  border-radius: 50px !important; /* Rounded corners */
+  padding: 0.4rem 1.5rem !important; /* Button padding */
+  cursor: pointer; /* Pointer cursor */
+  transition: all 0.3s ease; /* Smooth transition effect */
+}
+
+.primary__btn a {
+  font-size: 1.1rem;
+  font-weight: 650;
+  text-decoration: none;
+  color: #C1AA7F; /* Text color */
+}
+
+/* Hover and Active State */
+.primary__btn:hover,
+.primary__btn:active {
+  background: #C1AA7F !important; /* Change background to border color on hover/active */
+  border-color: #C1AA7F !important; /* Maintain border color */
+}
+.primary__btn.active {
+  background: #C1AA7F !important; /* Active background color */
+  border-color: #C1AA7F !important; /* Active border color */
+}
+
+.primary__btn.active a {
+  color: #fff !important; /* Active text color */
+}
+.primary__btn:hover a,
+.primary__btn:active a {
+  color: #fff; /* Keep text color white on hover and active */
+}
+
+.secondary__btn {
+  background: transparent !important;
+  color: #C1AA7F !important;
+  border: #C1AA7F !important;
+  font-weight: 800 !important;
+}
+
+.secondary__btn a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #C1AA7F;
+  color: var(--heading-color);
+}
+
+.secondary__btn a:hover {
+  color:#fff;
+}
+
+.section__subtitle {
+  background: var(--secondary-color);
+  font-family: var(--subtitle-font-name);
+  width: max-content;
+  padding: 0px 0.5rem;
+  padding-right: 1rem;
+
+  border-radius: 50px;
+  font-weight: 650;
+  font-size: 1.7rem;
+  color: var(--heading-color);
+}

@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Westminister Bridge",
+    "city": "London",
+    "address": "Somewhere in London",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beautiful Sunrise, Thailand",
+    "city": "Phuket",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nusa Pendia Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Cherry Blossoms Spring",
+    "city": "Tokyo",
+    "address": "Somewhere in Japan",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Holmen Lofoten, France",
+    "city": "Paris",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Kerala",
+    "city": "India",
+    "address": "Somewhere in London",
+    "distance": 1080,
+    "price": 26,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": true
+  },
+  {
+    "title": "KodaiKanal",
+    "city": "Tamil Nadu",
+    "address": "Somewhere in India",
+    "distance": 900,
+    "price": 50,
+    "maxGroupSize": 2,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img11.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sundarbans",
+    "city": "West Bengal",
+    "address": "Somewhere in India",
+    "distance": 400,
+    "price": 60,
+    "maxGroupSize": 2,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img12.jpg",
+    "featured": true
+  },
+  {
+    "title": "Konark",
+    "city": "Odisha",
+    "address": "Somewhere in India",
+    "distance": 200,
+    "price": 32,
+    "maxGroupSize": 3,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img13.jpg",
+    "featured": true
+  },
+  {
+    "title": "Udayagiri Caves",
+    "city": "Odisha",
+    "address": "Somewhere in India",
+    "distance": 400,
+    "price": 68,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img14.jpg",
+    "featured": true
+  },
+  {
+    "title": "Red Fort, Qutub Minar",
+    "city": "Delhi",
+    "address": "Somewhere in India",
+    "distance": 100,
+    "price": 77,
+    "maxGroupSize": 14,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img15.jpg",
+    "featured": true
+  },
+  {
+    "title": "Akshardham Temple",
+    "city": "Delhi",
+    "address": "Somewhere in India",
+    "distance": 110,
+    "price": 22,
+    "maxGroupSize": 18,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img16.jpg",
+    "featured": true
+  },
+  {
+    "title": "Gateway of India",
+    "city": "Mumbai",
+    "address": "Somewhere in India",
+    "distance": 1370,
+    "price": 159,
+    "maxGroupSize": 2,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img17.jpg",
+    "featured": true
+  },
+  {
+    "title": "Statue of Liberty",
+    "city": "New York",
+    "address": "Somewhere in USA",
+    "distance": 10700,
+    "price":999 ,
+    "maxGroupSize": 2,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img18.jpg",
+    "featured": false
+  },
+  {
+    "title": "Hollywood Walk of Fame",
+    "city": "Los Angeles",
+    "address": "Somewhere in USA",
+    "distance": 17000,
+    "price": 9999,
+    "maxGroupSize": 1,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img19.jpg",
+    "featured": false
+  }
+
+]

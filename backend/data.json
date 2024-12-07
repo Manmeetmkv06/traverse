@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "username": "Manmeet Kaur",
+      "email": "manmeet554.be22@chitkara.edu.in",
+      "password": "1234",
+      "id": "01"
+    },
+    {
+      "username": "Arshmeet Singh",
+      "email": "arshmeetsinghvohra@gmail.com",
+      "password": "2206",
+      "id": "02"
+    },
+    {
+      "username": "Manseerat Kaur",
+      "email": "manseerat@gmail.com",
+      "password": "1234",
+      "id": "03"
+    },
+    {
+      "username": "Prabhkirat",
+      "email": "prabhi@gmail.com",
+      "password": "3333"
+    },
+    {
+      "username": "MKV",
+      "email": "manmeet@gmail.com",
+      "password": "6666"
+    },
+    {
+      "username": "Manav",
+      "email": "manav@gmail.com",
+      "password": "553"
+    },
+    {
+      "username": "Pranav",
+      "email": "pranav@gmail.com",
+      "password": "@12pranav"
+    },
+    {
+      "username": "Shiv",
+      "email": "shiv@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "manisha",
+      "email": "manisha@gmail.com",
+      "password": "123"
+    },
+    {
+      "username": "Mishika",
+      "email": "mishikabansal603@gmail.com",
+      "password": "1234"
+    },
+    {
+      "username": "Mishika",
+      "email": "mishika@gmail.com",
+      "password": "3456"
+    },
+    {
+      "username": "shiv mohan",
+      "email": "shivmohancb@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "bookings": [
+    {
+      "userId": "01",
+      "userEmail": "manmeet@gmail.com",
+      "fullName": "Manmeet Kaur",
+      "phone": "98989898",
+      "guestSize": "1",
+      "bookAt": "2024-09-24"
+    },
+    {
+      "userId": "01",
+      "userEmail": "manmeet@gmail.com",
+      "fullName": "Arshmeet Singh",
+      "phone": "882206",
+      "guestSize": "10",
+      "bookAt": "2024-09-21"
+    },
+    {
+      "fullName": "prabhi",
+      "phone": "333333",
+      "guestSize": "6",
+      "bookAt": "2024-09-12"
+    },
+    {
+      "fullName": "Manmeet Kaur",
+      "phone": "9466441891",
+      "guestSize": "3",
+      "bookAt": "2024-11-05"
+    },
+    {
+      "fullName": "Manmeet Kaur",
+      "phone": "9466441891",
+      "guestSize": "3",
+      "bookAt": "2024-11-27"
+    },
+    {
+      "fullName": "Manmeet Kaur",
+      "phone": "9466441891",
+      "guestSize": "3",
+      "bookAt": "2024-11-30"
+    }
+  ]
+}

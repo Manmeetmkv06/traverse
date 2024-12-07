@@ -1,0 +1,35 @@
+.memory-form {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .memory-form h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #393732;
+    font-weight: bolder;
+  }
+  .memory-form input,
+  .memory-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  .memory-form button {
+    width: 100%;
+    padding: 10px;
+    background-color:#393732;
+    color: #C1AA7F;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .memory-form button:hover {
+    background-color:#6e7074;
+  }
+  
